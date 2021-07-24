@@ -1,9 +1,9 @@
 <h1 aligen="center">
   
 ```
-Bot Crashed 😔 Can you help me for fix.
+whatsup guys 😁Jessi new public update comming soon 😂👍
 ```
-  </h2>
+  </h1>
 
 
 ### Special Thanks To:
@@ -26,12 +26,6 @@ Bot Crashed 😔 Can you help me for fix.
 
 **▪︎ Helper [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
 
-<h2 align="center">
-
-```diff
--DO NOT USE THIS REPOSITORY. THIS IS ONLY FOR ME PERSONAL.
-```
-</h2>
 
 ##
 
