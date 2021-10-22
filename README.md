@@ -1,10 +1,9 @@
 <h1 aligen="center">
   
 ```
-whatsup guys 😁Jessi unlimited public
-version update comming soon 😂👍
+whatsup guys 😁https://github.com/MrChaby/Jessi-4r-whatsAlexa Visit Jessi hear 😂👍
 ```
   </h1>
 
 
-### wait for fix
+### 👸
